@@ -22,4 +22,4 @@ It is likely that it will not work in games with anti-cheat because input is sim
 - Windows (Tested on windows 10. Should run on windows 7 and higher.)
 
 # Bugs to fix
-- Clicking on the virtual keyboard is not recognized.
+- Clicking on the virtual keyboard does not get recognized.
