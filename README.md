@@ -1,6 +1,6 @@
 # ps5controllermouse
 With this program running you can use the playstation 5 controller (DualSense) as a mouse. In addition it provides basic keyboard input (shift and control key).
-For the controller communication the program utilizes the [DualSense-Windows](https://github.com/Ohjurot/DualSense-Windows) library. It is dynamically linked therefore you have to place the dll in the same directory as the executable.
+For the controller communication the program utilizes the [DualSense-Windows](https://github.com/Ohjurot/DualSense-Windows) library written by [Ohjurot](https://github.com/Ohjurot). It is dynamically linked therefore you have to place the dll in the same directory as the executable.
 
 For now the program does not have any GUI. It runs in a console and outputs the pressed buttons.
 The button mapping is hardcoded and can not be changed.
